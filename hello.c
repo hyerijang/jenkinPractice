@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello B711166! 당근당근\n");
+    printf("Hello B711166!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 
     return 0;
 }
