@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("hello hongik");
+    printf("I hate unicorn");
 
     return 0;
 }
