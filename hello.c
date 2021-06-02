@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("edit code");
+    printf("edit code~~~~~~~~~~");
 
     return 0;
 }
