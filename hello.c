@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("젠킨스 연습중");
+    printf("jjjjjjj");
 
     return 0;
 }
