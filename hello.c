@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("210602");
+    printf("210602 practice");
 
     return 0;
 }
